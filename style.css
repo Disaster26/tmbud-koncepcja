@@ -76,7 +76,7 @@ p{margin:0}
 
 .realizacje{background:#fff}
 .real{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:36px 28px;margin-top:36px}
-.r img{width:100%;aspect-ratio:16/10;object-fit:cover;border-radius:8px}
+.r img{width:100%;height:auto;aspect-ratio:16/10;object-fit:cover;border-radius:8px}
 .r div{padding-top:16px}
 .r-gdzie{color:var(--blue);font-weight:600;font-size:15px;margin:6px 0 8px}
 .r p:last-child{color:#353c45}
